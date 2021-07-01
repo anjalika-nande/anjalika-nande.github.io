@@ -9,10 +9,9 @@ experiences:
 - place: "Harvard University"
   time: "Sept '14 - May '21"
   title: "PhD Student"
-  subtitle: "Physics" #<br/> Thesis title: Mathematical modeling of drug resistance and the transmission of SARS-CoV-2"
+  subtitle: "Physics"
   category: "school"
  
-
 - place: "University of Birmingham, UK"
   time: "Oct '10 - Jul '14"
   title: "MSci Student"
