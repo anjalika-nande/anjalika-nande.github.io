@@ -7,13 +7,19 @@ experiences:
   category: "school"
 
 - place: "Harvard University"
-  time: "Sept '14 - May '21"
+  time: "Aug '14 - May '21"
   title: "PhD Student"
+  subtitle: "Physics"
+  category: "school"
+  
+- place: "Harvard University"
+  time: "Aug '14 - Nov '16"
+  title: "MA"
   subtitle: "Physics"
   category: "school"
  
 - place: "University of Birmingham, UK"
-  time: "Oct '10 - Jul '14"
+  time: "Sept '10 - Jun '14"
   title: "MSci Student"
   subtitle: "Theoretical Physics and Applied Mathematics <br/> First Class Honours (US GPA: 4.0/4.0)"
   category: "school"
