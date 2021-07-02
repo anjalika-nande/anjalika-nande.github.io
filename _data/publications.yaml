@@ -13,3 +13,26 @@ papers:
     paper_pdf: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008684"
     code: "https://github.com/alsnhll/COVID19NetworkSimulations"
     selected: y
+    
+  - title: "Crowding and the shape of COVID-19 epidemics"
+    authors: "Benjamin Rader, Samuel V. Scarpino, Anjalika Nande, Alison L. Hill, Ben Adlam, Robert C. Reiner, David M. Pigott, Bernardo Gutierrez, Alexander E. Zarebski, Munik Shrestha, John S. Brownstein, Marcia C. Castro, Christopher Dye, Huaiyu Tian, Oliver G. Pybus & Moritz U. G. Kraemer"
+    venue: "Nature Medicine, 2020"
+    paper_pdf: "https://www.nature.com/articles/s41591-020-1104-0"
+    #code: "https://github.com/alsnhll/COVID19NetworkSimulations"
+    selected: y
+    
+  - title: "DyPy: A Python Library for Simulating Matrix-Form Games"
+    authors: "Anjalika Nande, Andrew Ferdowsian, Eric Lubin, Erez Yoeli, Martin Nowak"
+    venue: "arXiv, 2020"
+    preprint: "https://arxiv.org/abs/2007.13815"
+    code: "https://github.com/anjalika-nande/dynamics_sim"
+    
+  - title: "Soft factorization in QED from 2D Kac-Moody symmetry"
+    authors: "Anjalika Nande, Monica Pate, Andrew Strominger"
+    venue: "Journal of High Energy Physics, 2018"
+    paper_pdf: "https://link.springer.com/article/10.1007/JHEP02(2018)079"
+    selected: y
+    
+    
+   
+
