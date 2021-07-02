@@ -6,3 +6,10 @@ papers:
     paper_pdf: "https://www.nature.com/articles/s41467-021-22521-5"
     code: "https://github.com/alsnhll/COVID19EvictionSimulations"
     selected: y
+    
+  - title: "Dynamics of COVID-19 under social distancing measures are driven by transmission network structure"
+    authors: "Anjalika Nande, Ben Adlam, Justin Sheen, Michael Z Levy, Alison L Hill"
+    venue: "PLoS Computational Biology, 2021"
+    paper_pdf: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008684"
+    code: "https://github.com/alsnhll/COVID19NetworkSimulations"
+    selected: y
