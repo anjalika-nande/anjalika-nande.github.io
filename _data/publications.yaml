@@ -1,5 +1,11 @@
 papers:
 
+  - title: "The risk of drug resistance during long-acting antimicrobial therapy"
+    authors: "Anjalika Nande, Alison L Hill"
+    venue: "medRxiV, 2021"
+    preprint: "https://www.medrxiv.org/content/10.1101/2021.07.10.21260044v1"
+    code: "https://github.com/anjalika-nande/drug-resistance"
+
   - title: "The effect of eviction moratoria on the transmission of SARS-CoV-2"
     authors: "Anjalika Nande, Justin Sheen, Emma L Walters, Brennan Klein, Matteo Chinazzi, Andrei H Gheorghe, Ben Adlam, Julianna Shinnick, Maria Florencia Tejeda, Samuel V Scarpino, Alessandro Vespignani, Andrew J Greenlee, Daniel Schneider, Michael Z Levy, Alison L Hill"
     venue: "Nature Communications, 2021"
