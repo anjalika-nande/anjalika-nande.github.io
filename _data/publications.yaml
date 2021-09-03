@@ -1,5 +1,11 @@
 papers:
 
+  - title: "Bottlenecks, modularity, and context-dependency in behavioral control"
+    authors: "Anjalika Nande, Veronika Dubinkina, Riccardo Ravasio, Grace Zhang, Gordan J Berman"
+    venue: "bioRxiv, 2021"
+    preprint: "https://doi.org/10.1101/2021.08.06.455452"
+    code: "https://github.com/drahcir7/bottleneck-behaviors"
+
   - title: "The risk of drug resistance during long-acting antimicrobial therapy"
     authors: "Anjalika Nande, Alison L Hill"
     venue: "medRxiv, 2021"
