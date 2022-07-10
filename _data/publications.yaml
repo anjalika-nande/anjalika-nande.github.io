@@ -1,10 +1,17 @@
 papers:
 
-  - title: "Bottlenecks, modularity, and context-dependency in behavioral control"
+  - title: "A systematic review of COVID-19 vaccine efficacy and effectiveness against SARS-CoV-2 infection and disease."
+    authors: "Higdon MM, Wahl B, Jones CB, Rosen JG, Truelove SA, Baidya A, Nande A, ShamaeiZadeh PA, Walter KK, Feikin DR, Patel MK, Knoll MD, Hill AL"
+    venue: "Open Forum Infectious Diseases 2022"
+    paper_pdf: "https://doi.org/10.1093/ofid/ofac138"
+    selected: y
+
+  - title: "Bottlenecks, Modularity, and the Neural Control of Behavior "
     authors: "Anjalika Nande, Veronika Dubinkina, Riccardo Ravasio, Grace Zhang, Gordan J Berman"
-    venue: "bioRxiv, 2021"
-    preprint: "https://doi.org/10.1101/2021.08.06.455452"
+    venue: "Frontiers in Behavioral Neuroscience 2022"
+    paper_pdf: "https://doi.org/fnbeh.2022.835753"
     code: "https://github.com/drahcir7/bottleneck-behaviors"
+    selected: y
 
   - title: "The risk of drug resistance during long-acting antimicrobial therapy"
     authors: "Anjalika Nande, Alison L Hill"
