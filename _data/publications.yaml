@@ -1,5 +1,12 @@
 papers:
 
+  - title: "The risk of drug resistance during long-acting antimicrobial therapy"
+    authors: "Anjalika Nande, Alison L Hill"
+    venue: "Proceedings of the Royal Society B, 2022"
+    paper_pdf: "https://doi.org/10.1098/rspb.2022.1444"
+    code: "https://github.com/anjalika-nande/drug-resistance"
+    selected: y
+    
   - title: "A systematic review of COVID-19 vaccine efficacy and effectiveness against SARS-CoV-2 infection and disease."
     authors: "Higdon MM, Wahl B, Jones CB, Rosen JG, Truelove SA, Baidya A, Nande A, ShamaeiZadeh PA, Walter KK, Feikin DR, Patel MK, Knoll MD, Hill AL"
     venue: "Open Forum Infectious Diseases, 2022"
@@ -12,12 +19,6 @@ papers:
     paper_pdf: "https://doi.org/fnbeh.2022.835753"
     code: "https://github.com/drahcir7/bottleneck-behaviors"
     selected: y
-
-  - title: "The risk of drug resistance during long-acting antimicrobial therapy"
-    authors: "Anjalika Nande, Alison L Hill"
-    venue: "medRxiv, 2021"
-    preprint: "https://www.medrxiv.org/content/10.1101/2021.07.10.21260044v1"
-    code: "https://github.com/anjalika-nande/drug-resistance"
 
   - title: "The effect of eviction moratoria on the transmission of SARS-CoV-2"
     authors: "Anjalika Nande, Justin Sheen, Emma L Walters, Brennan Klein, Matteo Chinazzi, Andrei H Gheorghe, Ben Adlam, Julianna Shinnick, Maria Florencia Tejeda, Samuel V Scarpino, Alessandro Vespignani, Andrew J Greenlee, Daniel Schneider, Michael Z Levy, Alison L Hill"
