@@ -1,5 +1,10 @@
 papers:
 
+  - title: "Quantifying individual-level heterogeneity in infectiousness and susceptibility through household studies"
+    authors: "Thayer L Anderson, Anjalika Nande, Carter Merenstein, Brinkley Raynor, Anisha Oommen, Brendan J Kelly, Michael Z Levy, Alison L Hill"
+    venue: "medRxiv, 2022"
+    preprint: "https://www.medrxiv.org/content/10.1101/2022.12.02.22281853v1"
+
   - title: "The risk of drug resistance during long-acting antimicrobial therapy"
     authors: "Anjalika Nande, Alison L Hill"
     venue: "Proceedings of the Royal Society B, 2022"
