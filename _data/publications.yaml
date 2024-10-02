@@ -1,9 +1,14 @@
 papers:
 
+  - title: "Vaccine failure mode determines population-level impact of vaccination campaigns during epidemics."
+    authors: "Da In Lee, Anjalika Nande, Thayer L Anderson, Michael Z Levy, Alison L Hill"
+    venue: "medRxiv, 2024"
+    preprint: "https://www.medrxiv.org/content/10.1101/2024.09.30.24314493v1"
+
   - title: "Quantifying individual-level heterogeneity in infectiousness and susceptibility through household studies"
     authors: "Thayer L Anderson, Anjalika Nande, Carter Merenstein, Brinkley Raynor, Anisha Oommen, Brendan J Kelly, Michael Z Levy, Alison L Hill"
-    venue: "medRxiv, 2022"
-    preprint: "https://www.medrxiv.org/content/10.1101/2022.12.02.22281853v1"
+    venue: "Epidemics, 2023"
+    preprint: "https://www.sciencedirect.com/science/article/pii/S1755436523000464"
 
   - title: "The risk of drug resistance during long-acting antimicrobial therapy"
     authors: "Anjalika Nande, Alison L Hill"
