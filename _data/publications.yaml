@@ -8,7 +8,8 @@ papers:
   - title: "Quantifying individual-level heterogeneity in infectiousness and susceptibility through household studies"
     authors: "Thayer L Anderson, Anjalika Nande, Carter Merenstein, Brinkley Raynor, Anisha Oommen, Brendan J Kelly, Michael Z Levy, Alison L Hill"
     venue: "Epidemics, 2023"
-    preprint: "https://www.sciencedirect.com/science/article/pii/S1755436523000464"
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S1755436523000464"
+    selected: y
 
   - title: "The risk of drug resistance during long-acting antimicrobial therapy"
     authors: "Anjalika Nande, Alison L Hill"
