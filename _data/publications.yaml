@@ -2,8 +2,10 @@ papers:
 
   - title: "Vaccine failure mode determines population-level impact of vaccination campaigns during epidemics."
     authors: "Da In Lee, Anjalika Nande, Thayer L Anderson, Michael Z Levy, Alison L Hill"
-    venue: "medRxiv, 2024"
+    venue: "Royal Society Interface, 2025"
+    paper_pdf: "https://royalsocietypublishing.org/doi/epdf/10.1098/rsif.2024.0689"
     preprint: "https://www.medrxiv.org/content/10.1101/2024.09.30.24314493v1"
+    selected: y
 
   - title: "Quantifying individual-level heterogeneity in infectiousness and susceptibility through household studies"
     authors: "Thayer L Anderson, Anjalika Nande, Carter Merenstein, Brinkley Raynor, Anisha Oommen, Brendan J Kelly, Michael Z Levy, Alison L Hill"
