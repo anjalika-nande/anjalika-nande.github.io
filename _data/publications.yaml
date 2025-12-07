@@ -5,6 +5,11 @@ papers:
     venue: "Malaria Journal, 2025"
     paper_pdf: "https://link.springer.com/article/10.1186/s12936-025-05644-8"
     selected: y
+
+  - title: "Resolving Parameter Uncertainty in Outbreak Models Through Population-Level Serological Surveillance"
+    authors: "Binod Pant, Matthew E Levine, Anjalika Nande, Raúl Garrido García, George Dewey, Nicholas B Link, Mauricio Santillana"
+    venue: "medRXiv, 2025"
+    preprint: "https://www.medrxiv.org/content/10.1101/2025.10.09.25337678v1"
     
   - title: "Vaccine failure mode determines population-level impact of vaccination campaigns during epidemics."
     authors: "Anjalika Nande*, Da In Lee*, Thayer L Anderson, Michael Z Levy, Alison L Hill"
