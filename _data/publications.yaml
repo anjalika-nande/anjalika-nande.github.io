@@ -1,5 +1,11 @@
 papers:
 
+  - title: "Malaria outbreak prediction at the sub-district level in Zambia using remote sensing satellite data"
+    authors: "Matthew M Ippolito, Anton Kvit, Tianyue Xu, Anjalika Nande, Caitlin Bond, Japhet Matoba, Mukuma Lubinda, Timothy Shields, Phil Thuma, Clive Shiff, Frank C Curriero, William J Moss, Shaun Truelove, Southern Africa International Center of Excellence for Malaria Research"
+    venue: "Malaria Journal, 2025"
+    paper_pdf: "https://link.springer.com/article/10.1186/s12936-025-05644-8"
+    selected: y
+    
   - title: "Vaccine failure mode determines population-level impact of vaccination campaigns during epidemics."
     authors: "Anjalika Nande*, Da In Lee*, Thayer L Anderson, Michael Z Levy, Alison L Hill"
     venue: "Royal Society Interface, 2025"
