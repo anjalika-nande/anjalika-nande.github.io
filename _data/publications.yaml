@@ -1,11 +1,11 @@
 papers:
 
- - title: "Wastewater Surveillance as an Event Detection System: Outbreak and Peak Detection of SARS-CoV-2 Across 281 U.S. Counties"
+  - title: "Wastewater Surveillance as an Event Detection System: Outbreak and Peak Detection of SARS-CoV-2 Across 281 U.S. Counties"
     authors: "Nicholas B Link, Raúl Garrido García, Anjalika Nande, Mauricio Santillana"
     venue: "medRxiv, 2026"
     preprint: "https://www.medrxiv.org/content/10.64898/2026.05.14.26353186v1"
 
- - title: "Understanding patterns of variant emergence and spread in an ongoing epidemic"
+  - title: "Understanding patterns of variant emergence and spread in an ongoing epidemic"
     authors: "Anjalika Nande, Michael Z Levy, Alison L Hill"
     venue: "medRxiv, 2026"
     preprint: "https://www.medrxiv.org/content/10.64898/2026.03.27.26349560v1"
