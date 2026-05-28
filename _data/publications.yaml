@@ -1,15 +1,32 @@
 papers:
 
+ - title: "Wastewater Surveillance as an Event Detection System: Outbreak and Peak Detection of SARS-CoV-2 Across 281 U.S. Counties"
+    authors: "Nicholas B Link, Raúl Garrido García, Anjalika Nande, Mauricio Santillana"
+    venue: "medRxiv, 2026"
+    preprint: "https://www.medrxiv.org/content/10.64898/2026.05.14.26353186v1"
+
+ - title: "Understanding patterns of variant emergence and spread in an ongoing epidemic"
+    authors: "Anjalika Nande, Michael Z Levy, Alison L Hill"
+    venue: "medRxiv, 2026"
+    preprint: "https://www.medrxiv.org/content/10.64898/2026.03.27.26349560v1"
+    
+  - title: "Assessing the Impact of Timing and Coverage of United States COVID-19 Vaccination Campaigns: A Multi-Model Approach"
+    authors: "Anjalika Nande, Soren Larsen, James Turtle, Jessica Davies, Shraddha R Bandekar, Bryan Lewis, Shi Chen, Shaun Truelove et al."
+    venue: "medRxiv, 2026"
+    preprint: "https://www.medrxiv.org/content/10.64898/2026.04.07.26349269v2"
+    
+  - title: "Resolving parameter uncertainty in SIR models through population-level serological surveillance"
+    authors: "Binod Pant, Matthew E Levine, Anjalika Nande, Raúl Garrido García, George Dewey, Nicholas B Link, Mauricio Santillana"
+    venue: "Infectious Disease Modelling, 2026"
+    preprint: "https://www.medrxiv.org/content/10.1101/2025.10.09.25337678v1"
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S2468042726000527?via%3Dihub"
+    selected: y
+
   - title: "Malaria outbreak prediction at the sub-district level in Zambia using remote sensing satellite data"
     authors: "Matthew M Ippolito, Anton Kvit, Tianyue Xu, Anjalika Nande, Caitlin Bond, Japhet Matoba, Mukuma Lubinda, Timothy Shields, Phil Thuma, Clive Shiff, Frank C Curriero, William J Moss, Shaun Truelove, Southern Africa International Center of Excellence for Malaria Research"
     venue: "Malaria Journal, 2025"
     paper_pdf: "https://link.springer.com/article/10.1186/s12936-025-05644-8"
     selected: y
-
-  - title: "Resolving Parameter Uncertainty in Outbreak Models Through Population-Level Serological Surveillance"
-    authors: "Binod Pant, Matthew E Levine, Anjalika Nande, Raúl Garrido García, George Dewey, Nicholas B Link, Mauricio Santillana"
-    venue: "medRXiv, 2025"
-    preprint: "https://www.medrxiv.org/content/10.1101/2025.10.09.25337678v1"
     
   - title: "Vaccine failure mode determines population-level impact of vaccination campaigns during epidemics."
     authors: "Anjalika Nande*, Da In Lee*, Thayer L Anderson, Michael Z Levy, Alison L Hill"
